@@ -18,8 +18,10 @@ This dashboard provides meaningful business insights through KPIs, trend analysi
 
 (Upload files in repository and keep them in main folder)
 
-📊 Dashboard Preview
-<img src="dashboard.png" width="900">
+## 📊 Dashboard Preview
+
+![Mobile Sales Dashboard](https://github.com/Pushkar1908/mobile-sales-dashboard-powerBI/raw/main/Screenshot%202026-02-17%20150123.png)
+
 🎯 Key KPIs
 
 💰 Total Sales: 769M
